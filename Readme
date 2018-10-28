@@ -1,0 +1,7 @@
+BU requirements
+-assign limit
+-block card
+-withdraw
+    -cant withdraw when cant afford
+    - cant withdraw when card is blocked
+-repay 
